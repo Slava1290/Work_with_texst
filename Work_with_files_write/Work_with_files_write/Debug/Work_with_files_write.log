@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mdeag\source\repos\work_with_files_write\work_with_files_write\source.cpp(98): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\mdeag\source\repos\work_with_files_write\work_with_files_write\source.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\mdeag\source\repos\work_with_files_write\work_with_files_write\source.cpp(111): warning C4018: <: несоответствие типов со знаком и без знака
+  Work_with_files_write.vcxproj -> C:\Users\mdeag\source\repos\Work_with_files_write\Debug\Work_with_files_write.exe
